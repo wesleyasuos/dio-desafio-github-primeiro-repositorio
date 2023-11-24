@@ -1,2 +1,2 @@
 Link para download do Git: https://git-scm.com/download/win
-O Git é um terminal extendido
+O Git é um terminal extendido.
